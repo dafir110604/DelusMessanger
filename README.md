@@ -1,2 +1,24 @@
-# DelusMessanger
-These apps enable your users to communicate seamlessly on their mobile devices with a modern and user-friendly interface. With faster performance and enhanced usability, messaging is now easier and more enjoyable than ever. Available for both Android and iOS. Messaging apps powered by Flutter. Send and receive messages, Full-featured groups, etc ..
+# DelusMessenger
+
+DelusMessenger is a privacy-first, decentralized messenger built using Flutter and Dart. It is part of the REChain ecosystem and offers P2P, end-to-end encrypted messaging without centralized servers.
+
+## Features
+
+- 🔐 End-to-End Encryption
+- 🌐 REChain Integration
+- 📱 Cross-platform (Android, iOS, Web)
+- 🧩 Plugin support
+- 🧠 Future-ready AI integration
+
+## Getting Started
+
+```bash
+git clone https://github.com/REChain-Network-Solutions/DelusMessanger.git
+cd DelusMessanger
+flutter pub get
+flutter run
+```
+
+## License
+
+[MIT](LICENSE)
